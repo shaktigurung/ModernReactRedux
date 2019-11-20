@@ -17,7 +17,6 @@ import React from 'react';
                     <label> Image Search </label>
                     <input type="text"  value= {this.state.term} onChange={(e)=> this.setState({term: e.target.value})} />
                 </div>
-                <label> {this.state.term} </label>
             </form>
         </div>
     );
