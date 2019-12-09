@@ -11,9 +11,16 @@
       "id": 2
     },
     {
-      "title": "Other Stream",
-      "description": "Here is another stream",
+      "title": "I Created this stream",
+      "description": "This is testing with new ID",
+      "userId": "115003103910909985859",
       "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Just to navigate to the streamy",
+      "userId": "115003103910909985859",
+      "id": 4
     }
   ]
 }
